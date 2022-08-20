@@ -392,6 +392,14 @@ Belt block positions
 
 ---
 #### Side Plate Assemblies
+
+###### Parts Needed
+|QTY  |Description                |US Equivalent                                  |Link                       |
+|-----|---------------------------|-----------------------------------------------|---------------------------|
+|2    |Z Drive                    |                                               |                           |
+|2    |Steppers, Nema17           |20mm+ shaft length                             |[Shop][sh2] – [Amazon][az2]|
+|8    |M3 x 10mm                  |None                                           |                           |
+
 ![!LR3 Fancy Picture](../img/lr3/LR3 (15).jpg){: loading=lazy width="400"}
 
  * Z drives, steppers, M3 screws.
@@ -400,6 +408,17 @@ Belt block positions
 
  * Pay attention to wire routing here. 
  * Snug up the M3 Screws
+
+###### Parts Needed
+|QTY  |Description                |US Equivalent                                  |Link                       |
+|-----|---------------------------|-----------------------------------------------|---------------------------|
+|2    |Y Drive                    |                                               |                           |
+|4    |Idlers Smooth 20T          |20T Smooth 5mm Bore                            |[Shop][sh5] – [Amazon][az5]|
+|4    |M5 x 30mm                  |None                                           |                           |
+|4    |M5 Nylock                  |None                                           |                           |
+|2    |Steppers, Nema17           |20mm+ shaft length                             |[Shop][sh2] – [Amazon][az2]|
+|2    |Pulleys 16T 10mm           |10mm GT2 16 Tooth                              |[Shop][sh4] – [Amazon][az4]|
+|4    |M2.5 x 12mm                |None                                           |                           |
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (17).jpg){: loading=lazy width="400"}
 
