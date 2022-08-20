@@ -484,7 +484,7 @@ Belt block positions
 |-----|------------------------|-----------------------------------------------|-----------------------------------------|
 |1    |XZ Plate Left           |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
 |1    |XZ Plate Right          |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
-|     |                        |**OR**                                         |                                         |
+|     |**OR**                  |                                               |                                         |
 |1    |XZ Leadscrew Stub Left  |                                               |                                         |
 |1    |XZ Leadscrew Stub Right |                                               |                                         |
 
