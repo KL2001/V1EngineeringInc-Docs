@@ -303,7 +303,7 @@ Belt block positions
  * The 7th hole is a spare for future expansion packs.
 
 ######Parts Needed
-|QTY  |Description             |US Equivalent                                  |Link 
+|QTY  |Description             |US Equivalent                                  |Link |
 |-----|------------------------|-----------------------------------------------|
 |8    |M8 x 40mm               |5/16" x 1.5"                                   |
 |8    |M8 Nylock nuts          |5/16" Nylock                                   |
