@@ -286,7 +286,7 @@ Belt block positions
 
 #### Core Assembly
 
-#####Parts Needed
+###### Parts Needed
 |QTY  |Description             |US Equivalent                                  | 
 |-----|------------------------|-----------------------------------------------|
 |1    |LR Core                 |Printed                                        |
@@ -302,11 +302,11 @@ Belt block positions
  * If they are not snug, use some loctite or glue to keep them in place, or mount your tool mount now loosely.
  * The 7th hole is a spare for future expansion packs.
 
-######Parts Needed
-|QTY  |Description             |US Equivalent                                  |Link |
-|-----|------------------------|-----------------------------------------------|
-|8    |M8 x 40mm               |5/16" x 1.5"                                   |
-|8    |M8 Nylock nuts          |5/16" Nylock                                   |
+##### Parts Needed
+|QTY  |Description             |US Equivalent                                  |Link                       |
+|-----|------------------------|-----------------------------------------------|---------------------------|
+|8    |M8 x 40mm               |5/16" x 1.5"                                   |                           |
+|8    |M8 Nylock nuts          |5/16" Nylock                                   |                           |
 |14   |6082rs Bearings         |                                               |[Shop][sh8] – [Amazon][az8]|
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (3).jpg){: loading=lazy width="400"}
@@ -321,10 +321,11 @@ Belt block positions
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (5).jpg){: loading=lazy width="400"}
 
-######Parts Needed
-|QTY  |Description             |US Equivalent                                  |Link 
+###### Parts Needed
+|QTY  |Description             |US Equivalent                                  |Link                       |
+|-----|------------------------|-----------------------------------------------|---------------------------|
 |1    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]|
-|1   |M2.5 x 12mm             |None                                           |
+|1    |M2.5 x 12mm             |None                                           |                           |
 
  * Get your Micro switch ready along with some M2.5 screws.
 
@@ -336,15 +337,16 @@ Belt block positions
 
 ##### X Drive
 
-######Parts Needed
-|QTY  |Description                |US Equivalent                                  |Link 
-|1    |X Drive Mount              |                                               |
-|4    |M5 x 30mm                  |None                                           |
-|4    |M5 Nylock                  |None                                           |
+###### Parts Needed
+|QTY  |Description                |US Equivalent                                  |Link                       |
+|-----|---------------------------|-----------------------------------------------|---------------------------|
+|1    |X Drive Mount              |                                               |                           |
+|4    |M5 x 30mm                  |None                                           |                           |
+|4    |M5 Nylock                  |None                                           |                           |
 |2    |Idlers 20T Smooth 5mm Bore |                                               |[Shop][sh5] – [Amazon][az5]|
 |1    |Steppers, Nema17           |20mm+ shaft length                             |[Shop][sh2] – [Amazon][az2]|
 |1    |Pulleys 16T 10mm           |10mm GT2 16 Tooth                              |[Shop][sh4] – [Amazon][az4]|
-|4    |M3 x 10mm                  |None                                           |
+|4    |M3 x 10mm                  |None                                           |                           |
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (7).jpg){: loading=lazy width="400"}
  
