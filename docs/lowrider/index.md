@@ -484,9 +484,15 @@ Belt block positions
 |-----|------------------------|-----------------------------------------------|-----------------------------------------|
 |1    |XZ Plate Left           |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
 |1    |XZ Plate Right          |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|2    |T8 Nut - 110mm or larger|                                               |[Shop][sh9] – [Amazon][az9]              |
+|2-4  |M3 x 10mm               |None                                           |                                         |
 |     |**OR**                  |                                               |                                         |
 |1    |XZ Leadscrew Stub Left  |                                               |                                         |
 |1    |XZ Leadscrew Stub Right |                                               |                                         |
+|2    |T8 Nut - 110mm or larger|                                               |[Shop][sh9] – [Amazon][az9]              |
+|2-4  |M3 x 10mm               |None                                           |                                         |
+|2    |M5 x 30mm               |None                                           |                                         |
+|2    |M5 Nylock               |None                                           |                                         |
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (26).jpg){: loading=lazy width="400"}
 
