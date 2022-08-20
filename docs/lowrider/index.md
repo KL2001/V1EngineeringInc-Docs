@@ -101,6 +101,7 @@ more than 80% nozzle diameter to keep overhangs working.
 |    |Optionally Printed          |       |                                     |                                         |
 |2   |YZ Plate                    |50%    |Best as a milled part                |[Shop][yz1] - [DXF](/lowrider/#yz-plates)|
 
+
 [Wheels]: https://www.printables.com/model/211714-lr3-60mm-wheel-brackets
 [xz1]: https://shop.v1engineering.com/products/lowrider-3-metal-xz-plates
 [yz1]: https://shop.v1engineering.com/collections/lowrider-parts/products/lowrider-cnc-v3-yz-plates
@@ -325,7 +326,7 @@ Belt block positions
 |QTY  |Description             |US Equivalent                                  |Link                       |
 |-----|------------------------|-----------------------------------------------|---------------------------|
 |1    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]|
-|1    |M2.5 x 12mm             |None                                           |                           |
+|2    |M2.5 x 12mm             |None                                           |                           |
 
  * Get your Micro switch ready along with some M2.5 screws.
 
@@ -419,6 +420,8 @@ Belt block positions
 |2    |Steppers, Nema17           |20mm+ shaft length                             |[Shop][sh2] – [Amazon][az2]|
 |2    |Pulleys 16T 10mm           |10mm GT2 16 Tooth                              |[Shop][sh4] – [Amazon][az4]|
 |4    |M2.5 x 12mm                |None                                           |                           |
+|2    |Endstops                   |                                               |[Shop][sh7] – [Amazon][az7]|
+|4    |M2.5 x 12mm                |None                                           |                           |
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (17).jpg){: loading=lazy width="400"}
 
@@ -458,6 +461,14 @@ Belt block positions
 
  * Orientation, mirrored sets.
 
+###### Parts Needed
+|QTY  |Description             |US Equivalent                                  |Link                       |
+|-----|------------------------|-----------------------------------------------|---------------------------|
+|1    |Z Stop                  |                                               |                           |
+|1    |Z Stop M                |                                               |                           |
+|2    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]|
+|4    |M2.5 x 12mm             |None                                           |                           |
+
 ![!LR3 Fancy Picture](../img/lr3/LR3 (24).jpg){: loading=lazy width="400"}
 
  * Z Stop & Z Stop M, wired endstops, M2.5mm screws.
@@ -467,6 +478,15 @@ Belt block positions
  * Notice the direction of the switch levers
  * Tuck the wires nicely into the grove and make sure not to pinch them when installing them later.
  * Gentle with the small M2.5 screws.
+
+###### Parts Needed
+|QTY  |Description             |US Equivalent                                  |Link                                     |
+|-----|------------------------|-----------------------------------------------|-----------------------------------------|
+|1    |XZ Plate Left           |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|1    |XZ Plate Right          |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|     |                        |**OR**                                         |                                         |
+|1    |XZ Leadscrew Stub Left  |                                               |                                         |
+|1    |XZ Leadscrew Stub Right |                                               |                                         |
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (26).jpg){: loading=lazy width="400"}
 
