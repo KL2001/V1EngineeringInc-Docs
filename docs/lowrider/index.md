@@ -287,11 +287,12 @@ Belt block positions
 
 #### Core Assembly
 
-###### Parts Needed
+<details><summary>###### Parts Needed</summary>
 |QTY  |Description             |US Equivalent                                  | 
 |-----|------------------------|-----------------------------------------------|
 |1    |LR Core                 |Printed                                        |
 |6    |M5 Nylock               |None                                           |
+</details>
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (1).jpg){: loading=lazy width="400"}
 
@@ -519,6 +520,10 @@ Belt block positions
 ![!LR3 Fancy Picture](../img/lr3/LR3 (30).jpg){: loading=lazy width="400"}
 
  * Orientation of the stubs and XZ plates.
+
+###### Parts Needed
+|QTY  |Description             |US Equivalent                                  |Link                                     |
+|-----|------------------------|-----------------------------------------------|-----------------------------------------|
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (32).jpg){: loading=lazy width="400"}
 
