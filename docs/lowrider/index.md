@@ -287,7 +287,14 @@ Belt block positions
 
 #### Core Assembly
 
-<details><summary>###### Parts Needed</summary>
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description             |US Equivalent                                  | 
 |-----|------------------------|-----------------------------------------------|
 |1    |LR Core                 |Printed                                        |
@@ -304,13 +311,22 @@ Belt block positions
  * If they are not snug, use some loctite or glue to keep them in place, or mount your tool mount now loosely.
  * The 7th hole is a spare for future expansion packs.
 
-##### Parts Needed
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description             |US Equivalent                                  |Link                       |
 |-----|------------------------|-----------------------------------------------|---------------------------|
 |8    |M8 x 40mm               |5/16" x 1.5"                                   |                           |
 |8    |M8 Nylock nuts          |5/16" Nylock                                   |                           |
 |14   |6082rs Bearings         |                                               |[Shop][sh8] – [Amazon][az8]|
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (3).jpg){: loading=lazy width="400"}
 
  * Bolts, 6082RS bearings and nuts for the next step.
@@ -323,12 +339,22 @@ Belt block positions
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (5).jpg){: loading=lazy width="400"}
 
-###### Parts Needed
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description             |US Equivalent                                  |Link                       |
 |-----|------------------------|-----------------------------------------------|---------------------------|
 |1    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]|
 |2    |M2.5 x 12mm             |None                                           |                           |
 
+ </details>
+ 
  * Get your Micro switch ready along with some M2.5 screws.
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (6).jpg){: loading=lazy width="400"}
@@ -339,7 +365,14 @@ Belt block positions
 
 ##### X Drive
 
-###### Parts Needed
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description                |US Equivalent                                  |Link                       |
 |-----|---------------------------|-----------------------------------------------|---------------------------|
 |1    |X Drive Mount              |                                               |                           |
@@ -350,6 +383,8 @@ Belt block positions
 |1    |Pulleys 16T 10mm           |10mm GT2 16 Tooth                              |[Shop][sh4] – [Amazon][az4]|
 |4    |M3 x 10mm                  |None                                           |                           |
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (7).jpg){: loading=lazy width="400"}
  
  * This section uses the X Stepper Mount, M5's, and Idlers.
@@ -395,13 +430,23 @@ Belt block positions
 ---
 #### Side Plate Assemblies
 
-###### Parts Needed
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description                |US Equivalent                                  |Link                       |
 |-----|---------------------------|-----------------------------------------------|---------------------------|
 |2    |Z Drive                    |                                               |                           |
 |2    |Steppers, Nema17           |20mm+ shaft length                             |[Shop][sh2] – [Amazon][az2]|
 |8    |M3 x 10mm                  |None                                           |                           |
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (15).jpg){: loading=lazy width="400"}
 
  * Z drives, steppers, M3 screws.
@@ -411,7 +456,15 @@ Belt block positions
  * Pay attention to wire routing here. 
  * Snug up the M3 Screws
 
-###### Parts Needed
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description                |US Equivalent                                  |Link                       |
 |-----|---------------------------|-----------------------------------------------|---------------------------|
 |2    |Y Drive                    |                                               |                           |
@@ -424,6 +477,8 @@ Belt block positions
 |2    |Endstops                   |                                               |[Shop][sh7] – [Amazon][az7]|
 |4    |M2.5 x 12mm                |None                                           |                           |
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (17).jpg){: loading=lazy width="400"}
 
  * Y drives, Idlers, M5's
@@ -462,7 +517,15 @@ Belt block positions
 
  * Orientation, mirrored sets.
 
-###### Parts Needed
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description             |US Equivalent                                  |Link                       |
 |-----|------------------------|-----------------------------------------------|---------------------------|
 |1    |Z Stop                  |                                               |                           |
@@ -470,6 +533,8 @@ Belt block positions
 |2    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]|
 |4    |M2.5 x 12mm             |None                                           |                           |
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (24).jpg){: loading=lazy width="400"}
 
  * Z Stop & Z Stop M, wired endstops, M2.5mm screws.
@@ -480,7 +545,15 @@ Belt block positions
  * Tuck the wires nicely into the grove and make sure not to pinch them when installing them later.
  * Gentle with the small M2.5 screws.
 
-###### Parts Needed
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
 |QTY  |Description             |US Equivalent                                  |Link                                     |
 |-----|------------------------|-----------------------------------------------|-----------------------------------------|
 |1    |XZ Plate Left           |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
@@ -495,6 +568,8 @@ Belt block positions
 |2    |M5 x 30mm               |None                                           |                                         |
 |2    |M5 Nylock               |None                                           |                                         |
 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (26).jpg){: loading=lazy width="400"}
 
  * T8 nut, and 1-2 M3 screws.
@@ -521,10 +596,25 @@ Belt block positions
 
  * Orientation of the stubs and XZ plates.
 
-###### Parts Needed
-|QTY  |Description             |US Equivalent                                  |Link                                     |
-|-----|------------------------|-----------------------------------------------|-----------------------------------------|
 
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
+|QTY  |Description                    |US Equivalent                                  |Link                                     |
+|-----|-------------------------------|-----------------------------------------------|-----------------------------------------|
+|1    |XZ Plate Left                  |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|1    |XZ Plate Right                 |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|4    |Linear rails MGN - MGN12H 150mm|                                               |[Shop][sh11] – [Amazon][az11]                |
+|16   |M3 x 10mm                      |None                                           |                                            |
+|6    |M5 x 30mm                      |None                                           |                                            |
+ 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (32).jpg){: loading=lazy width="400"}
 
  * The MGN12H bearing blocks get attached to the XZ plate.
@@ -549,6 +639,23 @@ Belt block positions
 
  * You will need to add three M5's to the holes shown here. Actually, you only need the lower two, but just to be safe drop them all in for now.
  
+ <details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
+|QTY  |Description             |US Equivalent                                  |Link                                     |
+|-----|------------------------|-----------------------------------------------|-----------------------------------------|
+|2    |YZ Plate                |                                               |[Shop][yz1] - [DXF](/lowrider/#yz-plates)|
+|1    |XZ Plate Left           |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|1    |XZ Plate Right          |                                               |[Shop][xz1] - [DXF](/lowrider/#xz-plates)|
+|24   |3mm x 12mm Wood/metal   |#4 x 1/2" Wood or Sheet metal screws           |                                         |
+ 
+ </details>
+ 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (36).jpg){: loading=lazy width="400"}
 
  * Use the small wood screws to attach the rails to the YZ plate.
@@ -560,6 +667,20 @@ Belt block positions
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (37).jpg){: loading=lazy width="400"}
 
+ <details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
+|QTY  |Description             |US Equivalent                                  |Link                                     |
+|-----|------------------------|-----------------------------------------------|-----------------------------------------|
+
+ </details>
+ 
+ 
  * Add the Z drive wires facing the back.
  * Use M5 screws here and snug it up a bit.
 
