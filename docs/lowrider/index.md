@@ -677,6 +677,9 @@ Belt block positions
  
 |QTY  |Description             |US Equivalent                                  |Link                                     |
 |-----|------------------------|-----------------------------------------------|-----------------------------------------|
+|2    |Z Drive                 |                                               |                                         |
+|4    |M5 x 30mm               |None                                           |                                         |
+|4    |M5 Nylock               |None                                           |                                         |
 
  </details>
  
@@ -685,6 +688,23 @@ Belt block positions
  * Use M5 screws here and snug it up a bit.
 
 ##### Z End Stop
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
+|QTY  |Description             |US Equivalent                                  |Link                                     |
+|-----|------------------------|-----------------------------------------------|-----------------------------------------|
+|2    |M5 x 30mm               |None                                           |                                         |
+|2    |M5 Nylock               |None                                           |                                         |
+|2    |Endstops                |                                               |[Shop][sh7] – [Amazon][az7]              |
+|2    |Y Drive                 |                                               |                                         |
+
+ </details>
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (38).jpg){: loading=lazy width="400"}
 
@@ -710,6 +730,24 @@ Belt block positions
  * Wire sleeve is optional, but looks nice here. Or, leave them exposed to make it look more complicated to your audience. Everyone loves a person with a big brain.
 
 ##### Wheels
+
+<details>
+ 
+<summary>
+ 
+ ###### Parts Needed
+ 
+ </summary>
+ 
+|QTY  |Description                 |US Equivalent                                  |Link                                     |
+|-----|----------------------------|-----------------------------------------------|-----------------------------------------|
+|1    |Bearing Wheel Bracket Front |                                               |[Link][Wheels]                           |
+|1    |Bearing Wheel Bracket Rear  |                                               |[Link][Wheels]                           |
+|6    |6082rs Bearings             |                                               |[Shop][sh8] – [Amazon][az8]              |
+|10   |M5 x 30mm                   |None                                           |                                         |
+|10   |M5 Nylock                   |None                                           |                                         |
+
+ </details>
 
 ![!LR3 Fancy Picture](../img/lr3/LR3 (41).jpg){: loading=lazy width="400"}
 
